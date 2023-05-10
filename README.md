@@ -46,39 +46,39 @@ I am a Mobile App Developer:iphone: from Turkey:tr:.
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=idmert)
 
 
-name: 📅 Isometric commit calendar
-category: github
-description: |
-  This plugin displays an isometric view of a user commit calendar along with a few additional statistics like current streak and average number of commit per day.
-examples:
-  +full year calendar: https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg
-  half year calendar: https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg
-index: 0
-supports:
-  - user
-scopes:
-  - public_access
-inputs:
 
-  plugin_isocalendar:
-    description: |
-      Enable isocalendar plugin
-    type: boolean
-    default: no
-
-  plugin_isocalendar_duration:
-    description: |
-      Time range
-
-      - `half-year`: 180 days
-      - `full-year`: 1 year
-    type: string
-    default: half-year
-    values:
-      - half-year
-      - full-year
-
-
+<!--options-->
+<table>
+  <tr>
+    <td align="center" nowrap="nowrap">Option</i></td><td align="center" nowrap="nowrap">Description</td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap"><h4><code>plugin_isocalendar</code></h4></td>
+    <td rowspan="2"><p>Enable isocalendar plugin</p>
+<img width="900" height="1" alt=""></td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap"><b>type:</b> <code>boolean</code>
+<br>
+<b>default:</b> no<br></td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap"><h4><code>plugin_isocalendar_duration</code></h4></td>
+    <td rowspan="2"><p>Time range</p>
+<ul>
+<li><code>half-year</code>: 180 days</li>
+<li><code>full-year</code>: 1 year</li>
+</ul>
+<img width="900" height="1" alt=""></td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap"><b>type:</b> <code>string</code>
+<br>
+<b>default:</b> half-year<br>
+<b>allowed values:</b><ul><li>half-year</li><li>full-year</li></ul></td>
+  </tr>
+</table>
+<!--/options-->
 
 
 
