@@ -46,6 +46,14 @@ I am a Mobile App Developer:iphone: from Turkey:tr:.
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=idmert)
 
 
+name: Full-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.fullyear.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+  plugin_isocalendar_duration: full-year
 
 
 
