@@ -41,8 +41,7 @@ I am a Mobile App Developer:iphone: from Turkey:tr:.
 ---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dirgarmert&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dirgarmert&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dirgarmert&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=idmert)
 
