@@ -9,7 +9,7 @@
 <div id="badges" align="center"">
 <img src="https://komarev.com/ghpvc/?username=dirgarmert&style=plastic&color=red" alt="" width="120"/>
  <h2>
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=01F700&background=FFFFFF00&width=435&lines=My+Name+is+Mert+Dirgar)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&color=01F700&background=FFFFFF00&width=435&lines=My+Name+is+Mert+Dirgar)](https://git.io/typing-svg)
                                                                                                     
                                                                                                     
                                                                                                     
