@@ -1,7 +1,8 @@
 
-### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=01F700&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=My+Name+is+Mert+Dirgar+;Welcome+to+my+GitHub+Profile" alt="Typing SVG" /></a>
+### 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=300&color=01F700&background=FFFFFF00&vCenter=true&width=435&lines=My+Name+is+Mert+Dirgar+;Welcome+to+my+Profile" alt="Typing SVG" /></a>
 
-<div id="badges" align="center">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjMzMmIzZThiZDA2ZTMxMDE3MjUwMzcxZThhMDkzYWYxOWY3YjNkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/SHjOSDkKZ18qOHA5B5/giphy.gif" width="350"/>
 </div>
 <div id="badges" align="center">
