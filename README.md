@@ -9,12 +9,8 @@
 <div id="badges" align="center"">
 <img src="https://komarev.com/ghpvc/?username=dirgarmert&style=plastic&color=red" alt="" width="120"/>
  <h1>
-  <div id="header" >                                                                                                 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&color=01F700&background=FFFFFF00&width=435&lines=My+Name+is+Mert+Dirgar)]
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
+                                                                                                                                                                                         
+                                                                                                                                                                                              
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
                                                  
 </h1>
@@ -61,3 +57,4 @@ I am a Mobile App Developer:iphone: from Turkey:tr:.
 
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/1d99GLB20hS0OwYyqj/giphy.gif" width="350"/>
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&color=01F700&background=FFFFFF00&width=435&lines=My+Name+is+Mert+Dirgar)]
