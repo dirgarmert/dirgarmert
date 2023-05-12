@@ -2,8 +2,7 @@
 ### 
 <div id="header" align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=17C321&vCenter=true&width=435&lines=My+Name+is+Mert+Dirgar+" alt="Typing SVG" /></a>
-<div id="header" align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=17C321&vCenter=true&width=435&lines=My+Name+is+Mert+Dirgar+!;Welcome+to+My+Profile" alt="Typing SVG" /></a><div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjMzMmIzZThiZDA2ZTMxMDE3MjUwMzcxZThhMDkzYWYxOWY3YjNkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/SHjOSDkKZ18qOHA5B5/giphy.gif" width="350"/>
 </div>
 <div id="badges" align="center">
