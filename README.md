@@ -1,6 +1,6 @@
 
 ### 
-<div align="center">
+
      [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=01F700&background=FFFFFF00&width=435&lines=My+Name+is+Mert+Dirgar)
 
 <div id="header" align="center">
