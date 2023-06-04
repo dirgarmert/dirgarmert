@@ -15,7 +15,7 @@
 <div>
  <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjE1NzFmZTdmOTNmZGIyMDA1ZTYxOTlkNjkxOGVlYmNjZTgwZmZlNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ornk57KwDXf81rjWM/giphy.gif" />
-</div> 
+
                                                                           
 ---
 ### 😶‍🌫️ About Me 
@@ -25,7 +25,7 @@ I am a Mobile App Developer:iphone: from Turkey:tr:.
 - :mailbox: How to reach me: you can reach me via dirgarmert@gmail.com.
 - ✈️: My favorite thing to do is travel.I have visited almost 20 countries. My aim is to visit all the countries in the world.                                                                               
 ---                                                                                                                              
-</div>
+
 
 ### :hammer_and_wrench: Languages and Tools 
 
