@@ -19,11 +19,11 @@
                                                                           
 ---
 ### 😶‍🌫️ About Me 
-I am a Mobile App Developer:iphone: from Turkey:tr:.
- :dart: I aim to develop applications by coding beautiful and interesting ideas that come to my mind.
- :zap: In my free time 🎧 :film_projector::basketball::muscle:.
- :mailbox: How to reach me: you can reach me via dirgarmert@gmail.com.
- ✈️: My favorite thing to do is travel.I have visited almost 20 countries. My aim is to visit all the countries in the world.                                                                               
+- I am a Mobile App Developer:iphone: from Turkey:tr:.
+- :dart: I aim to develop applications by coding beautiful and interesting ideas that come to my mind.
+- :zap: In my free time 🎧 :film_projector::basketball::muscle:.
+- :mailbox: How to reach me: you can reach me via dirgarmert@gmail.com.
+- ✈️: My favorite thing to do is travel.I have visited almost 20 countries. My aim is to visit all the countries in the world.                                                                               
 ---                                                                                                                              
 
 
